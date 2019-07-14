@@ -1,4 +1,5 @@
 # Interesting papers
+
 ## Directly relevant to QIS
   - [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/abs/1806.09729)
   - [Learning to learn with quantum neural networks via classical neural networks](https://arxiv.org/abs/1907.05415)
