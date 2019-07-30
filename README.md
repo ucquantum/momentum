@@ -1,4 +1,4 @@
-# p&#770;
+# *p&#770;*
 
 This is repository for quantum information resources that I find interesting.
 
