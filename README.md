@@ -10,3 +10,7 @@ this repository is meant to organize my learning of quantum physics and quantum 
 I hope to also write code, make videos, and continue to grow the potential educational impact of this repository.
 
 I am open to all suggestions and would love to start building a community.
+
+## A few key resources:
+  - [Quantum Computing for the Determined - Video series by Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
+  - [Quantum Computation and Quantum Information - Book by Michael Nielsen](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
