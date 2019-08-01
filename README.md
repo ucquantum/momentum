@@ -10,3 +10,7 @@ this repository is meant to organize my learning of quantum physics and quantum 
 I hope to also write code, make videos, and continue to grow the potential educational impact of this repository.
 
 I am open to all suggestions and would love to start building a community.
+
+If you are interested (even if not part of uchicago) please email me at anandj@uchicago.edu
+
+(UChicago only): click [here](https://ucquantum.slack.com) for the slack
