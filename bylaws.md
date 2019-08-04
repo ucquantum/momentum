@@ -1,4 +1,4 @@
-# UChicago Quantum Society
+﻿# UChicago Quantum Society
 
 
 ## Article I: Name
@@ -28,9 +28,9 @@
 
 ## Article IV: Officers
 
-### Section 1: UChicago Quantum Society will have four officer positions: President, Vice President, and Treasurer. 
+### Section 1: UChicago Quantum Society will have four officer positions: President, Vice President, Treasurer and Organization officer. 
 
-### Section 2: Officers must be currently registered students of the University of Chicago. The president cannot take a leave of absence or be studying abroad during their term of service.
+### Section 2: Officers must be currently registered students of the University of Chicago. The President cannot take a leave of absence or be studying abroad during their term of service. The President may not hold simultaneous positions; however, two positions may be held by the same person.
 
 ### Section 3: Officers will be nominated and elected during Spring Quarter but will not begin serving as such until Spring Quarter is over. Additional responsibilities to officers-elect may be distributed at the discretion of the current serving President.
 
@@ -80,5 +80,6 @@
 ### Section 2: Non-standard amendment proposals and bylaw changes will require a unanimous vote from officers or be added to the list of amendments for the Spring election (decided by the party or individual submitting the amendment). Only the Spring elections will have a full vote for amendments.
 
 ### Section 3: Officer nominations and suggested bylaw amendments must be submitted to a current officer within two weeks of voting. Nominations are open and members can nominate themselves.
+
 
 
