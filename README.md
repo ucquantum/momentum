@@ -1,6 +1,6 @@
 # *p&#770;*
 
-This is repository for quantum information resources that I find interesting.
+This is repository for quantum information resources.
 
 p&#770; is the momentum operator in quantum mechanics.
 
@@ -14,3 +14,12 @@ I am open to all suggestions and would love to start building a community.
 If you are interested (even if not part of uchicago) please email me at anandj@uchicago.edu
 
 (UChicago only): click [here](https://ucquantum.slack.com) for the slack
+## A few key resources:
+  - [Quantum Computing for the Determined - Video series by Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
+  - [Quantum Computation and Quantum Information - Book by Michael Nielsen and Isaac Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+
+Links for copy/pastes in emails:
+
+https://ucquantum.org
+https://github.com/ucquantum
+https://ucquantum.slack.com
