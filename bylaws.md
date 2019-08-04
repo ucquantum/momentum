@@ -1,4 +1,4 @@
-# Chicago Quantum Society
+# UChicago Quantum Society
 
 
 ## Article I: Name
@@ -8,7 +8,7 @@
 
 ## Article II: Purpose
 
-### Section 1: The purpose of “UChicago Quantum Society” is to be a community for those interested in quantum computing. Our goal is to host talks, hackathons, workshops, and lab tours.
+### Section 1: The purpose of UChicago Quantum Society is to be a community for those interested in quantum computing. Our goal is to host talks, hackathons, workshops, and lab tours.
 
 
 ## Article III: Field of Membership
