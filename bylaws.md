@@ -53,9 +53,17 @@
 
 ### Section 1: Voting is restricted to the requirements stipulated in Article 3 Section 1. A designated meeting in Spring Quarter will be hosted to address bylaw updates and elections for new officers. Officer election decisions are based on a plurality vote. The President will require a top-two runoff election decided by majority. Amendments require a majority. 
 
-Elections must follow the following requirements:
+# Elections must follow the following requirements:
 
-	All elections must take place on Slack, Facebook, the Listhost, and in-person and aggregated to a final sum. If a member votes in multiple places, only one of the votes will be counted. Individuals with conflicting votes will not be counted. Polls will close one week after opening. The online polls will be sent out during the in-person election meeting.
+	* All elections must take place on Slack, Facebook, the Listhost, and in-person and aggregated to a final sum.
+
+	* If a member votes in multiple places, only one of the votes will be counted. 
+
+	* Individuals with conflicting votes will not be counted. 
+
+	* Polls will close one week after opening. 
+
+	* The online polls will be sent out during the in-person election meeting.
 
 
 ## Article VI: Handling of Funds 
