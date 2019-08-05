@@ -59,7 +59,7 @@ I have no doubt that the interest in quantum computing and the need for a corres
 
 Crucial to ensuring a long lasting club will be establishing consistent and fun traditions that students and faculty look forward to. 
 
-Even if we are just hosting our regular meetings, making them as receptive to knew ideas and fun as possible will be a significant step towards becoming an institution on campus. 
+Even if we are just hosting our regular meetings, making them as receptive to new ideas and fun as possible will be a significant step towards becoming an institution on campus. 
 
 Sufficient advertising and event planning will be other necessary components of a lasting organization.
 I believe that many of the faculty in the field are going to be open to talking to student that are interested.
