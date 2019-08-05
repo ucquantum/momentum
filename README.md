@@ -3,7 +3,7 @@ p&#770; is the momentum operator in quantum mechanics.
 
 This is a repository primarily made for the UChicago Quantum Society RSO. 
 I hope to write code, make videos, and continue to grow the potential educational impact of this repository. 
-
+ 
 I am open to all suggestions and would love to start building a community, not just for UChicago students. 
 
 ## A few key resources:
