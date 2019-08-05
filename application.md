@@ -10,7 +10,7 @@ UChicago Quantum Society is specifically focused on quantum computing and quantu
 
 This distinction is important because the principles of quantum computing requires a different knowledge set and involves the work of physics, computer science, and engineering. 
 
-I beleive that there is enough work being done specifically in this field to support an RSO.
+I believe that there is enough work being done specifically in this field to support an RSO.
 
 ## 2. How would your organization benefit from RSO status?  List specific Center for Leadership and Involvement or University resources that you would hope to utilize that would only be available to your organization if it becomes an RSO.
 
@@ -27,7 +27,7 @@ These resources will also help grow the community on campus and get people engag
 
 ## 3. Describe any events and meetings that your organization has held so far and your plans for the future.
 
-We have a slack channel, a uchicago listhost, a facebook group, and a website. 
+We have a slack channel, a listhost, a facebook group, a github, and a website. 
 
 Our primary correspondence is a facebook group chat where we share papers and other interesting articles that we find online.
 
@@ -47,7 +47,7 @@ The UChicago Quantum Society would be an asset to the University in helping comm
 
 I am a computer science student and I believe that many other CS students are interested in the massive speedup that quantum computing allows for, but there is not a student-led organization to provide for people to meet and exchange ideas. 
 
-Many of the official University resources to get involved in quantum computing require prerequiste knowledge and courses, this would be a way for people to get involved without any former knowledge.
+Many of the official University resources to get involved in quantum computing require prerequisite knowledge and courses, this would be a way for people to get involved without any former knowledge.
 
 One of the primary goals of the club is to be as open to people outside the UChicago community as possible by creating educational content for everyone. This will reflect the administration's focus on quantum engineering and show it from the side of excited students. 
 
@@ -61,7 +61,7 @@ Crucial to ensuring a long lasting club will be establishing consistent and fun 
 
 Even if we are just hosting our regular meetings, making them as receptive to knew ideas and fun as possible will be a significant step towards becoming an institution on campus. 
 
-Sufficient advertising and event planning will be other necesary components of a lasting organization.
+Sufficient advertising and event planning will be other necessary components of a lasting organization.
 I believe that many of the faculty in the field are going to be open to talking to student that are interested.
 
 
@@ -69,7 +69,7 @@ I believe that many of the faculty in the field are going to be open to talking 
 
 I believe that there is minimal risk in the goals and functions of Momentum that I have written about prior.
 
-The primary risks that I forsee would be possibly mishandling of projectors when faculty/students give talks. 
+The primary risks that I foresee would be possibly mishandling of projectors when faculty/students give talks. 
 
 I plan on minimizing these risks by trying to only use these materials when necessary (large groups) and opting for more DIY solutions or not using presentation equipment and using the chalkboards.
 
