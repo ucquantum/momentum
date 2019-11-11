@@ -1,16 +1,16 @@
 # Application for UChicago RSO
 
-## 1. What current RSOs have a similar purpose or goals to your organization?  How is your organization different from those organizations?
+### 1. *What current RSOs have a similar purpose or goals to your organization?  How is your organization different from those organizations?*
 
-There are multiple academic clubs that have similar broad objectives (host talks, workshops, lab tours).
+There are multiple academic clubs that have similar broad objectives to host talks, workshops, lab tours for different academic fields.
 
 We have a similar organization outlook as: Engineering Society, CS Student Activities Council, Math Club, Tiger Talks, and Benzene.
  
 UChicago Quantum Society is specifically focused on quantum computing and quantum information. 
 
-This distinction is important because the principles of quantum computing requires a different knowledge set and involves the work of physics, computer science, and engineering. 
+This distinction is important because the principles of quantum computing requires a different knowledge set and involves the work of physics, computer science, and engineering.
 
-I believe that there is enough work being done specifically in this field to support an RSO.
+The disciplines that this new technology brings together spans multiple departments and engaging these faculty with interested undergraduates will be a positive force for rigorous and devoted research.
 
 ## 2. How would your organization benefit from RSO status?  List specific Center for Leadership and Involvement or University resources that you would hope to utilize that would only be available to your organization if it becomes an RSO.
 
