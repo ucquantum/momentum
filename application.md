@@ -6,18 +6,6 @@ The UChicago Quantum Society looks to bring students together from disparate bac
 
 While we share some of the broader objectives of other STEM academic clubs such as the Engineering Society, CS Student Activities Council, Math Club, Tiger Talks, and Benzene, none currently encapsulate what we believe the UChicago Quantum Society can achieve. The UChicago Quantum Society is specifically focused on quantum computing and quantum information. This distinction is important because the principles of quantum computing require a uniquely interdisciplinary set of fields involving physics, computer science, chemistry, materials science, math, and engineering.
 
-
-
-There are multiple academic clubs that have similar broad objectives to host talks, workshops, lab tours for different academic fields.
-
-We have a similar organization outlook as: Engineering Society, CS Student Activities Council, Math Club, Tiger Talks, and Benzene.
- 
-UChicago Quantum Society is specifically focused on quantum computing and quantum information. This distinction is important because the principles of quantum computing require a uniquely interdisciplinary set of fields involving  physics, computer science, and engineering.
-
-Our club looks to bring individuals together from disparate backgrounds in order not to teach them one curriculum, but rather present legitimate and contempory problems that benefit from their specialized backgrounds. Creating an infrastructure between departments on this issue is one of our key goals that will setup future RSO endeavors for success.
-
-The disciplines that this new technology brings together spans multiple departments and engaging these faculty with interested undergraduates will be a positive force for rigorous and devoted research.
-
 ### 2. How would your organization benefit from RSO status?  List specific Center for Leadership and Involvement or University resources that you would hope to utilize that would only be available to your organization if it becomes an RSO.
 
 The UChicago Quantum Society would gain greatly through attaining RSO status. Our current agenda contains weekly meetings in the Regenstein Library's private rooms. Through being an RSO, we would gain consistent access to rooms that would 
@@ -34,21 +22,25 @@ These resources will also help grow the community on campus and get people engag
 
 ### 3. Describe any events and meetings that your organization has held so far and your plans for the future.
 
-The VP, Treasurer, and I have been meeting in our current location (Reg 403 subject to change) on Monday and Wednesdays throughout this quarter.
+During the first few weeks, the VP, Treasurer, and I met in our current location (JRL 403) on Mondays and Wednesdays.
 
-We met with our club advisor, Andrew Cleland, and discussed how to begin recruitment and outreach, which since then, we have sent out an email to the CS undergraduate listhost. Additionally, though sharing on facebook have 25 students 
+Starting 6th week, we started publicizing these meetings and made them once a week on Wednesday, with a biweekly meeting on Monday for working on administrative tasks.
 
-We either will reach out to professors 
+We had more than 10 people attend the first of these meetings, and have maintained a weekly attendance of 5-6 people.
 
-### Priority Queue of goals for 2019 Autumn:
+We've met with our club advisor, Andrew Cleland, and discussed how to begin recruitment and outreach, which since then, we have sent out an email to the CS undergraduate listhost. 
 
-	1. Host weekly club meetings where we follow the book 'Quantum Computing and Quantum Information' by Michael Nielsen and Isaac Chuang.
- 
-	* I want the club to be primarily an introduction to the field for members, who most likely will not have a lot of experience in quantum computing.
+We currently have over 50 members in our Facebook group, and a similar number subscribed to our listhost.
 
-	2. Host at least one faculty lecture where they talk about their work and the challenges they face.
+### Priority Queue of goals for Winter 2020:
 
-	3. Tour a lab. 
+	1. Host at least one faculty lecture where people can come hear field experts talk about their work.
+	
+	2. Host weekly meetings to discuss recent developments in the field.
+	
+	3. Host a hackathon where people can begin to learn to write quantum algorithms.
+	
+	4. Take students on a tour of a lab where quantum computing research is being done.
 
 ### 4. How would your organization use its RSO status to benefit the University community and/or greater community?
 
