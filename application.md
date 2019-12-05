@@ -2,7 +2,7 @@
 
 ### 1. *What current RSOs have a similar purpose or goals to your organization?  How is your organization different from those organizations?*
 
-The UChicago Quantum Society looks to bring students together from disparate backgrounds in order not to teach them one curriculum, but rather present legitimate and contempory problems in quantum computing that capitalize on their specialized backgrounds. We believe there is a great deal of impactful research being conducted on UChicago's campus in the field of quantum computing, but there is not a well established avenue for students to engage with the field. The UChicago Quantum Society will provide this infrastructure through quarterly talks from prominent faculty, lab and facility tours on campus, and larger educational workshop events. While we currently envision a more scientific oriented set of events, this cutting edge research also allows opportunities for discussion in policy, ethics, and philosophical contexts.
+The UChicago Quantum Society looks to bring students together from disparate backgrounds in order not to teach them one curriculum, but rather present legitimate and contempory problems in quantum computing that capitalize on their specialized backgrounds. We believe there is a great deal of impactful research being conducted on UChicago's campus in the field of quantum computing, but there is not a well established avenue for students to engage with the field. The UChicago Quantum Society will provide this infrastructure through quarterly talks from prominent faculty, lab and facility tours on campus, and larger educational workshops. While we currently envision a more scientific oriented set of events, this cutting edge research also allows opportunities for discussion in policy, ethics, and philosophical contexts.
 
 While we share some of the broader objectives of other STEM academic clubs such as the Engineering Society, CS Student Activities Council, Math Club, Tiger Talks, and Benzene, none currently encapsulate what we believe the UChicago Quantum Society can achieve. The UChicago Quantum Society is specifically focused on quantum computing and quantum information. This distinction is important because the principles of quantum computing require a uniquely interdisciplinary set of fields involving physics, computer science, chemistry, materials science, math, and engineering.
 
@@ -19,6 +19,10 @@ Our club looks to bring individuals together from disparate backgrounds in order
 The disciplines that this new technology brings together spans multiple departments and engaging these faculty with interested undergraduates will be a positive force for rigorous and devoted research.
 
 ### 2. How would your organization benefit from RSO status?  List specific Center for Leadership and Involvement or University resources that you would hope to utilize that would only be available to your organization if it becomes an RSO.
+
+The UChicago Quantum Society would gain greatly through attaining RSO status. Our current agenda contains weekly meetings in the Regenstein Library's private rooms. Through being an RSO, we would gain consistent access to rooms that would 
+
+
 
 The two primary benefits that RSO status provides is better access to facilities for holding meetings and providing easier and more effective communication with faculty and students.
 
