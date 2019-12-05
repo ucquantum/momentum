@@ -44,15 +44,11 @@ We currently have over 50 members in our Facebook group, and a similar number su
 
 ### 4. How would your organization use its RSO status to benefit the University community and/or greater community?
 
-The UChicago Quantum Society would be an asset to the University in helping communicate the importance of quantum computing and the PME's resources. We (UChicago) are poised to be leaders in quantum networking (Fermi <-> Argonne's quantum superhighway) and I believe that many students would be interested in this if there were more resources for non-PME/physics students.
+The UChicago Quantum Society would be an asset to the University in helping communicate the importance of quantum computing and the PME's resources. Moreover, if UCQuantum were granted RSO status, it would enable us to more easily garner interaction from faculty, which is essential for the kind of events we want to host. We believe that these events have the potential to enervate the existing community surrounding quantum computing and molecular engineering on campus, as well as grow the community.
 
-I am a computer science student and I believe that many other CS students are interested in the massive speedup that quantum computing allows for, but there is not a student-led organization to provide for people to meet and exchange ideas. 
+As evinced by the high number of responses to the interest poll we sent to the CS department mailing list, there is a lot of interest surrounding quantum computing amongst the undergraduate population. However, there is not a student-led organization to provide for people to meet and exchange ideas. UCQuantum would satisfy this need.
 
-Many of the official University resources to get involved in quantum computing require prerequisite knowledge and courses, this would be a way for people to get involved without any former knowledge.
-
-One of the primary goals of the club is to be as open to people outside the UChicago community as possible by creating educational content for everyone. This will reflect the administration's focus on quantum engineering and show it from the side of excited students. 
-
-I think that the creation of an online quantum community will be a fantastic asset for UChicago and the PME.
+Additionally, many of the official University resources concerning QC require taking a prohibitive amount of prerequisite  courses, UCQ would be a way for people to get involved without any former knowledge.
 
 ### 5. If granted recognition, how do plan to make sure that your organization will still be active in 5 years?
 
