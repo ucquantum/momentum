@@ -8,33 +8,20 @@ While we share some of the broader objectives of other STEM academic clubs such 
 
 ### 2. How would your organization benefit from RSO status?  List specific Center for Leadership and Involvement or University resources that you would hope to utilize that would only be available to your organization if it becomes an RSO.
 
-The UChicago Quantum Society would gain greatly through attaining RSO status. Our current agenda contains weekly meetings in the Regenstein Library's private rooms. Through being an RSO, we would gain consistent access to rooms that would 
+The UChicago Quantum Society would gain greatly through attaining RSO status. Our current agenda contains weekly meetings that are hosted wherever we can find space. Through being an RSO, we would gain consistent access to rooms in the Regenstein Library that would allow a more regular schedule to be held. Similarly, for our larger planned events, such as our hackathon and faculty talks, we will need an official means of reserving space. Our hope is to create a society that is not just a loose collection of students this year, but a community that sustains itself for many years to come.
 
-
-
-The two primary benefits that RSO status provides is better access to facilities for holding meetings and providing easier and more effective communication with faculty and students.
-
-Access to University facilities will help us to host hack sessions and lectures.
-
-Having a location on campus to meet will enable us to grow our club and minimize logistical problems unrelated to the goals of the RSO. 
-
-These resources will also help grow the community on campus and get people engaged in the field in a way that being a private, off-campus social club would not.
+Having official RSO status will also provide us with a legitamacy that otherwise we would not have access to. The perception of our group, by faculty, off-campus groups, and students, will depend greatly on our validity. Having the University's approval will remove some barrier of communication we currently face as an unregistered collective. Students will also be more interested in joining an established society with a strong infrastructure and access to resources that allow more creativity in what our club can accomplish.
 
 ### 3. Describe any events and meetings that your organization has held so far and your plans for the future.
 
-During the first few weeks, the VP, Treasurer, and I met in our current location (JRL 403) on Mondays and Wednesdays.
+In order to begin the process of planning out the club, the VP, the Treasurer, and the President met weekly on Mondays and Wednesdays for the first 6 weeks. This allowed us to craft the bylaws, the general mission of the club, and the blueprint for the remaining quarter. Starting 6th week, we publicized these meetings and made them once a week on Wednesday, with a biweekly meeting on Monday for adminsistrative tasks. We consistnetly have had roughly 10 students at the weekly meetings which have consisted of tutorials on the basics of quantum computing, current research endevaurs on and off campus, and exploring news about quantum computing. Different students have lead each week creating a great atmosphere of students bringing in their personal interests and sharing it with the group. 
 
-Starting 6th week, we started publicizing these meetings and made them once a week on Wednesday, with a biweekly meeting on Monday for working on administrative tasks.
+As current means of outreach, we have sent out an email to the CS undergraduate listhost which garnered over 50 students joining our Facebook group and listhost. We have reached out to the physics department with a similar goal in mind, but they expressed their desire for us to be an actual RSO before they send out our interest form.
 
-We had more than 10 people attend the first of these meetings, and have maintained a weekly attendance of 5-6 people.
-
-We've met with our club advisor, Andrew Cleland, and discussed how to begin recruitment and outreach, which since then, we have sent out an email to the CS undergraduate listhost. 
-
-We currently have over 50 members in our Facebook group, and a similar number subscribed to our listhost.
-
+The club advisor, Andrew Cleland, has been an invaluable resource for us. With his help, he has given us guidance for how best to communicate with the various departments we are interested in engaging with as well as suggesting feasible projects we could pursue. Looking ahead, we are currently in conversation with Professor William Fefferman about him giving a lecture for us.
 ### Priority Queue of goals for Winter 2020:
 
-	1. Host at least one faculty lecture where people can come hear field experts talk about their work.
+	1. Host at least two faculty lecture where people can come hear field experts talk about their work.
 	
 	2. Host weekly meetings to discuss recent developments in the field.
 	
