@@ -20,7 +20,7 @@ Through our current means of outreach, we sent out an email to the CS undergradu
 
 The club advisor, Andrew Cleland, has been an invaluable resource for us. With his help, he has given us guidance for how best to communicate with the various departments we are interested in engaging with, as well as suggestions for feasible projects we could pursue. Looking ahead, we are currently in conversation with Professor William Fefferman and hope to invite him to give lecture for our organization.
 
-In preparation for a much larger event, we have entered conversation with IBM in pursuit of hosting a joint hackathon with them. They have had success in the past hosting hackathons at ______ universities specifically focused on quantum computing. This is a particuarly important event for us as it acts as both a large scale recruitment event as well as a tangible way for students to interact with quantum computing. Establishing industry connections for our club would provide an avenue for future events we could bring to campus.
+In preparation for a much larger event, we have entered conversation with IBM in pursuit of hosting a joint hackathon with them. They have had success in the past hosting hackathons at the University of Pittsburgh (Bluehack), Benedictine University (BenUHack), and more. This is a particuarly important event for us as it acts as both a large scale recruitment event as well as a tangible way for students to interact with quantum computing. Establishing industry connections for our club would provide an avenue for future events we could bring to campus.
 ### Priority Queue of goals for Winter 2020:
 
 	1. Host at least two faculty lecture where people can come hear field experts talk about their work.
