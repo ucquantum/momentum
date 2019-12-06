@@ -28,17 +28,17 @@
 
 ## Article IV: Board Membership
 
-### Section 1: UChicago Quantum Society will have four board positions: President, Vice President, Treasurer, and Director of Communications. 
+### Section 1: UChicago Quantum Society will have four main board positions: President, Vice President, Treasurer, and Director of Communications. 
 
-### Section 2: The current board of UChicago Quantum Society may vote to add however many and whatever positions or responsibilities they see fit to best execute the goals of the UChicago Quantum Society. 
+### Section 2: The plurality vote by the current board of UChicago Quantum Society may be taken to add however many and whatever positions or responsibilities the board sees fit to best execute the goals of the UChicago Quantum Society. 
 
-### Section 2: Board members must be currently registered students of the University of Chicago. The President cannot take a leave of absence or be studying abroad during their term of service. The President may not hold simultaneous positions; however, two positions may be held by the same person.
+### Section 3: Board members must be currently registered students of the University of Chicago. The President cannot take a leave of absence or be studying abroad during their term of service. The President may not hold simultaneous positions; however, two positions may be held by the same person.
 
-### Section 3: All current members of UChicago Quantum Society are elligible to apply to be board members for the next academic school year. Current board members need not reapply to be a part of the board for the next academc year. 
+### Section 4: All current members of UChicago Quantum Society are elligible to apply to be board members for the next academic school year. Current board members need not reapply to be a part of the board for the next academc year. 
 
-### Section 4: The Board application process will be resolved internally by the current board during Spring Quarter. Board Members will not begin serving as such until Spring Quarter is over. 
+### Section 5: The Board application process will be resolved internally by the current board during Spring Quarter. Board Members will not begin serving as such until Spring Quarter is over. 
 
-### Section 4: Duties:
+### Section 6: Duties:
 
 	1. The President shall make the handle all official business and communication with parties outside of the membership of the UChicago Quantum Society, with the exception of those designated in the description of other board positions. The President is also responsible for all official paperwork and shall serve as the primary contact of the group. The President will direct all meetings.
 
@@ -48,18 +48,18 @@
 
 	4. The Director of Communications will command the UChicago Quantum Listhost and Facebook page and aid in communications and organization of events and planning.
 
-### Section 5: If a board member must leave the UChicago Quantum Society, the current board can decide to open an application process for the vacated position. Otherwise, the Vice President will assume the duties of the vacated postion and has the ability to delegate responsibilities to other board members as needed. The former board member may re-assume their position upon return with unanimous permission from the current board. 
+### Section 7: If a board member must leave the UChicago Quantum Society, the current board can decide to open an application process for the vacated position. Otherwise, the Vice President will assume the duties of the vacated postion and has the ability to delegate responsibilities to other board members as needed. The former board member may re-assume their position upon return with unanimous permission from the current board. 
 
-### Section 6: A majority vote of remaining board members after consultation with the faculty adviser(s) may relieve a board member of their duties.
+### Section 8: A majority vote of remaining board members after consultation with the faculty adviser(s) may relieve a board member of their duties.
 
 
 ## Article V: Elections 
 
-### Section 1: Voting is restricted to the requirements stipulated in Article 3 Section 2. A designated meeting in Spring Quarter will be hosted to resolve the application process for new board members and ammend the bylaws. The decision to admit new board members is made holistically based on the board member application and interview. The President and Vice President are decided through a top-two runoff election decided by majority.
+### Section 1: Voting is restricted to the requirements stipulated in Article 3 Section 2. A designated meeting in Spring Quarter will be hosted to resolve the application process for new board members and ammend the bylaws. The decision to admit new board members is made holistically based on a student's application and board member interview. The President and Vice President are decided through a top-two runoff election decided by majority.
 
 # Elections must follow the following requirements:
 
-	* All elections must take place in-person with all members of the current board present and aggregated to a final sum.
+	* All elections must take place in-person with all members of the current board present and be aggregated to a final sum.
 
 	* If a board member votes in multiple places, only one of the votes will be counted. 
 
@@ -80,7 +80,7 @@
 
 ### Section 2: Non-standard amendment proposals and bylaw changes will require a unanimous vote from board members or be added to the list of amendments for the Spring election (decided by the party or individual submitting the amendment). Only the Spring elections will have a full vote for amendments.
 
-### Section 3: Board position nominations and suggested bylaw amendments must be submitted to a current board member within two weeks of voting. Nominations are open and members can nominate themselves.
+### Section 3: Board position nominations and suggested bylaw amendments must be submitted to a current board member within two weeks of voting. Nominations are open and accepted board member applicants can nominate themselves.
 
 
 
