@@ -26,7 +26,7 @@
 ### Section 2: Voting membership is limited to board members for the current academic school year.
 
 
-## Article IV: Officers
+## Article IV: Board Membership
 
 ### Section 1: UChicago Quantum Society will have four board positions: President, Vice President, Treasurer, and Director of Communications. 
 
@@ -36,11 +36,11 @@
 
 ### Section 3: All current members of UChicago Quantum Society are elligible to apply to be board members for the next academic school year. Current board members need not reapply to be a part of the board for the next academc year. 
 
-### Section 4: The Officer application process will be resolved internally by the current board during Spring Quarter. Officers will not begin serving as such until Spring Quarter is over. 
+### Section 4: The Board application process will be resolved internally by the current board during Spring Quarter. Board Members will not begin serving as such until Spring Quarter is over. 
 
 ### Section 4: Duties:
 
-	1. The President shall make the handle all official business and communication with parties outside of the membership of the UChicago Quantum Society, with the exception of those designated in the description of other officer positions. The President is also responsible for all official paperwork and shall serve as the primary contact of the group. The President will direct all meetings.
+	1. The President shall make the handle all official business and communication with parties outside of the membership of the UChicago Quantum Society, with the exception of those designated in the description of other board positions. The President is also responsible for all official paperwork and shall serve as the primary contact of the group. The President will direct all meetings.
 
 	2. The Vice President shall work closely with the President to achieve the goals of the UChicago Quantum Society and serve as a liaison to all RSO collaborations. The Vice President will also assume the President’s responsibilities if they are unable to do so (absent, sick, etc.). 
 
@@ -48,9 +48,9 @@
 
 	4. The Director of Communications will command the UChicago Quantum Listhost and Facebook page and aid in communications and organization of events and planning.
 
-### Section 5: If an officer must leave the UChicago Quantum Society, the current board can decide to open an application process for the vacated position. Otherwise, the Vice President will assume the duties of the vacated postion and has the ability to delegate responsibilities to other board members as needed. The former officer may re-assume their position upon return with unanimous permission from the other officers. 
+### Section 5: If a board member must leave the UChicago Quantum Society, the current board can decide to open an application process for the vacated position. Otherwise, the Vice President will assume the duties of the vacated postion and has the ability to delegate responsibilities to other board members as needed. The former board member may re-assume their position upon return with unanimous permission from the current board. 
 
-### Section 6: A majority vote of remaining officers after consultation with the faculty adviser(s) may relieve an officer of their duties.
+### Section 6: A majority vote of remaining board members after consultation with the faculty adviser(s) may relieve a board member of their duties.
 
 
 ## Article V: Elections 
@@ -71,7 +71,7 @@
 
 ### Section 1: All funds are to be deposited in the UChicago Quantum Society’s CLI account.
 
-### Section 2: The Treasurer shall be the primary officer responsible for handling finances. The President and Vice President are authorized to access the CLI account.
+### Section 2: The Treasurer shall be the primary individual responsible for handling finances. The President and Vice President are authorized to access the CLI account.
 
 
 ## Article VII: Amendments
@@ -80,7 +80,7 @@
 
 ### Section 2: Non-standard amendment proposals and bylaw changes will require a unanimous vote from board members or be added to the list of amendments for the Spring election (decided by the party or individual submitting the amendment). Only the Spring elections will have a full vote for amendments.
 
-### Section 3: Officer nominations and suggested bylaw amendments must be submitted to a current board member within two weeks of voting. Nominations are open and members can nominate themselves.
+### Section 3: Board position nominations and suggested bylaw amendments must be submitted to a current board member within two weeks of voting. Nominations are open and members can nominate themselves.
 
 
 
