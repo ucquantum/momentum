@@ -18,7 +18,9 @@ In order to begin the process of planning out the club, the VP, the Treasurer, a
 
 As current means of outreach, we have sent out an email to the CS undergraduate listhost which garnered over 50 students joining our Facebook group and listhost. We have reached out to the physics department with a similar goal in mind, but they expressed their desire for us to be an actual RSO before they send out our interest form.
 
-The club advisor, Andrew Cleland, has been an invaluable resource for us. With his help, he has given us guidance for how best to communicate with the various departments we are interested in engaging with as well as suggesting feasible projects we could pursue. Looking ahead, we are currently in conversation with Professor William Fefferman about him giving a lecture for us.
+The club advisor, Andrew Cleland, has been an invaluable resource for us. With his help, he has given us guidance for how best to communicate with the various departments we are interested in engaging with as well as suggesting feasible projects we could pursue. Looking ahead, we are currently in conversation with Professor William Fefferman about him giving a lecture for our organization.
+
+As a much larger event, we have entered conversation with IBM in pursuit of hosting a joint hackathon with them. They have had success in the past hosting hackathons at ______ universities specifically focused on quantum computing. This is a particuarly important event for us as it acts as both a large scale recruitment event as well as a tangible way for students to interact with quantum computing. Establishing industry connections for our club would provide an avenue for future events we could bring to campus.
 ### Priority Queue of goals for Winter 2020:
 
 	1. Host at least two faculty lecture where people can come hear field experts talk about their work.
@@ -31,30 +33,23 @@ The club advisor, Andrew Cleland, has been an invaluable resource for us. With h
 
 ### 4. How would your organization use its RSO status to benefit the University community and/or greater community?
 
-The UChicago Quantum Society would be an asset to the University in helping communicate the importance of quantum computing and the PME's resources. Moreover, if UCQuantum were granted RSO status, it would enable us to more easily garner interaction from faculty, which is essential for the kind of events we want to host. We believe that these events have the potential to enervate the existing community surrounding quantum computing and molecular engineering on campus, as well as grow the community.
+The UChicago Quantum Society would be an asset to the University in helping communicate the importance of quantum computing as an intensitly complex scientific as well as societal problem. With RSO status, our goal is to create infrastrucuture between faculty, industry, and students on campus centered around quantum computing. This would enable more students becoming involved in research on and off campus, greater educational resources being developed as we create curriculum for a broad community, and potential jobs and internships with resources we gather together. We believe that these events have the potential to enervate the existing community surrounding quantum computing and molecular engineering on campus as well as engage students more directly.
 
-As evinced by the high number of responses to the interest poll we sent to the CS department mailing list, there is a lot of interest surrounding quantum computing amongst the undergraduate population. However, there is not a student-led organization to provide for people to meet and exchange ideas. UCQuantum would satisfy this need.
-
-Additionally, many of the official University resources concerning QC require taking a prohibitive amount of prerequisite  courses, UCQ would be a way for people to get involved without any former knowledge.
+Additionally, many of the official University resources in the physics and molecular engineering departments concerning quantum computing require a large amount of prerequisites. We believe this is prohibitive to many students not majoring in either of these majors who would otherwise have a great deal of interest in learning about and particpating in quantum computing. The UChicago Quantum Society would be a way for individuals to get involved with just an interest, drive, and passion for learning. With this as our core tenant as a community, that anyone who wants to participate can and should, we hope to be an arbiter of open scientific discourse.
 
 ### 5. If granted recognition, how do plan to make sure that your organization will still be active in 5 years?
 
-I have no doubt that the interest in quantum computing and the need for a corresponding student organization will follow the growth trend that the field has experienced.
+Quantum computing, as a relativitly new field of study, has only grown in the last 10 years. More and more is there news in the popular media about the wonders and accomplishments of modern quantum computing. This interest will do nothing but grow for the foreseeable future. As such, we fully expect our club to gain popularity as more students enter the university with both a popular and specialized understanding of quantum computing. This makes it imperative we gain RSO status earlier rather than later so we can have established a certain amount of infrastructure as an organization that can account for rapidly expanding interest in the field.
 
-Crucial to ensuring a long lasting club will be establishing consistent and fun traditions that students and faculty look forward to. 
+Crucial to ensuring a long lasting club will be establishing consistent traditions that students and faculty look forward to. The UChicago Quantum Society's weekly meetings are a prime example of this goal. We look to make these weekly meetings as engaging as possible, but more importantly open and available to all students. As iterated many times in this document, quantum computing is a uniquely interdisiplinary field that needs individuals from all backgrounds. One way to ensure the continuing success is to encourage members to shape the activities and projects we engage in. This fluidity has already been demonstrated through our clubs expanding interest in the physical side of quantum computation, as the original plan was to focus more on the computational side initially.
 
-Even if we are just hosting our regular meetings, making them as receptive to new ideas and fun as possible will be a significant step towards becoming an institution on campus. 
+Sufficient advertising and event planning will be other necessary components of a lasting organization. Our listhost, facebook page, slack, and website all are currently being utilized to best establish ourselves with a positive connotation. We also are looking to establish roles on the board in which the tasks of running the club are more explcitly divided such as dividing up internal and external communications.
 
-Sufficient advertising and event planning will be other necessary components of a lasting organization.
-I believe that many of the faculty in the field are going to be open to talking to student that are interested.
+Finally, there will always be quantum computing resources on campus. The Chicago Quantum Exchange is a world class forum for high level research being performed in the great Chicago and midwest area. SOMETHING ABOUT RESERACH ALWAYS BEING HERE AND STUDENT/FACULTY RELATIONSHIPS
 
 
 ### 6. Please list any anticipated risks associated with operating this RSO (i.e. equipment, travel, etc.). How would you work to minimize these risks?
 
-I believe that there is minimal risk in the goals and functions of Momentum that I have written about prior.
+Like any club, there are inherent risks to our organization we must remain diligent about, but none are prohibitive to the greater success of a safe UChicago Quantum Society. Our organization hopes to participate in laboratory tours as well as physical experiments involving potentially hazourdous materials. As a preventative measure, we will only look to engage with these events through well established avenues like the Physics and Molecular Engineering departments. A lab tour will only occur after very clearly asking a faculty member their expectations and wants in regards to our interest in their research. Similarly, we will not attempt any experiments on our own without clear guidance from our club advisor or a similar authority. These risks are not to be taken lightly but entirely managable if we give them their due forthought.
 
-The primary risks that I foresee would be possibly mishandling of projectors when faculty/students give talks. 
-
-I plan on minimizing these risks by trying to only use these materials when necessary (large groups) and opting for more DIY solutions or not using presentation equipment and using the chalkboards.
-
-Since off-campus events require a significantly more logistics and planning, I plan to host all events on-campus at this time.
+The current plan is to host all events on-campus as to reduce logistical and minimze possible complications. Eventually, we would love to explore beyond the UChicago campus to either the incredible national labs or private companies that reside in the greater Chicago area. This will present new logistical challenges in ensuring a safe environment between traveling and visiting off campus sites. As such, we plan to require a great deal of planning and communication between all parties participating in off campus events.
